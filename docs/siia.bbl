@@ -1,0 +1,207 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{VitalDB}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d3be94deb346e54cf44340c085c14c8f}{%
+           family={Lee\bibnamedelima HC.},
+           familyi={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Yoon\bibnamedelimb S.B.\bibnamedelimi et\bibnamedelima al.},
+           giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Park\bibnamedelima Y.},
+           suffixi={P\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature}%
+      }
+      \strng{namehash}{d3be94deb346e54cf44340c085c14c8f}
+      \strng{fullhash}{d3be94deb346e54cf44340c085c14c8f}
+      \strng{bibnamehash}{d3be94deb346e54cf44340c085c14c8f}
+      \strng{authorbibnamehash}{d3be94deb346e54cf44340c085c14c8f}
+      \strng{authornamehash}{d3be94deb346e54cf44340c085c14c8f}
+      \strng{authorfullhash}{d3be94deb346e54cf44340c085c14c8f}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sci Data}
+      \field{number}{279}
+      \field{title}{VitalDB, a high-fidelity multi-parameter vital signs database in surgical patients.}
+      \field{volume}{9}
+      \field{year}{2022}
+    \endentry
+    \entry{ASA}{article}{}
+      \name{author}{3}{}{%
+        {{hash=672ae7835e6d565ebf1fb809c0d53c21}{%
+           family={Mayhew},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7c5f5dde244eee04b07675c6962a0f10}{%
+           family={Mendonca},
+           familyi={M\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=fb83bb76bf7f7f416f27ae902daa75cc}{%
+           family={Murthy},
+           familyi={M\bibinitperiod},
+           given={BVS},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a83ad5ad78d41dd7b79838dd9160d19e}
+      \strng{fullhash}{a83ad5ad78d41dd7b79838dd9160d19e}
+      \strng{bibnamehash}{a83ad5ad78d41dd7b79838dd9160d19e}
+      \strng{authorbibnamehash}{a83ad5ad78d41dd7b79838dd9160d19e}
+      \strng{authornamehash}{a83ad5ad78d41dd7b79838dd9160d19e}
+      \strng{authorfullhash}{a83ad5ad78d41dd7b79838dd9160d19e}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anaesthesia}
+      \field{number}{3}
+      \field{title}{A review of ASA physical status--historical perspectives and modern developments}
+      \field{volume}{74}
+      \field{year}{2019}
+      \field{pages}{373\bibrangedash 379}
+      \range{pages}{7}
+    \endentry
+    \entry{ESC}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=fb8b6be9c55d32eb591c54ca2375e8be}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4fa7f1fdddffd177e1ab5d8dbe2335da}{%
+           family={Mancia},
+           familyi={M\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=486136a57998295cace9adcc4b3bb0a9}{%
+           family={Spiering},
+           familyi={S\bibinitperiod},
+           given={Wilko},
+           giveni={W\bibinitperiod}}}%
+        {{hash=de0070714494f0fdf3ff35ca7e9053b6}{%
+           family={Agabiti\bibnamedelima Rosei},
+           familyi={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+        {{hash=525cd9c6af2c459bca76e8700747b2f1}{%
+           family={Azizi},
+           familyi={A\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=318e018f2655dced7be2796d6bfd0293}{%
+           family={Burnier},
+           familyi={B\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e9911e2f05ed70ea4e1078b6266e5508}{%
+           family={Clement},
+           familyi={C\bibinitperiod},
+           given={Denis\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=adf8f32a45de06b561570a4cfc01d00d}{%
+           family={Coca},
+           familyi={C\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=73059581c2aedc40dec48f0c3d20d603}{%
+           family={De\bibnamedelima Simone},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1d97f395e2b6ebcf281c8fabec2414cb}{%
+           family={Dominiczak},
+           familyi={D\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ed6494b18e7e5a91b4f0b57a2c5a6651}
+      \strng{fullhash}{c1a7bd217db9b60fe66be37cb937d77c}
+      \strng{bibnamehash}{ed6494b18e7e5a91b4f0b57a2c5a6651}
+      \strng{authorbibnamehash}{ed6494b18e7e5a91b4f0b57a2c5a6651}
+      \strng{authornamehash}{ed6494b18e7e5a91b4f0b57a2c5a6651}
+      \strng{authorfullhash}{c1a7bd217db9b60fe66be37cb937d77c}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European heart journal}
+      \field{number}{33}
+      \field{title}{2018 ESC/ESH Guidelines for the management of arterial hypertension: The Task Force for the management of arterial hypertension of the European Society of Cardiology (ESC) and the European Society of Hypertension (ESH)}
+      \field{volume}{39}
+      \field{year}{2018}
+      \field{pages}{3021\bibrangedash 3104}
+      \range{pages}{84}
+    \endentry
+    \entry{adaptivethresh}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=d26f284b85f7f758bdab659718367a6b}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f9cf90b3bd6cc51f96d2dbd896ba363c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1aa06e66630f0d8aaa52b4b4af7dce1b}{%
+           family={Japkowicz},
+           familyi={J\bibinitperiod},
+           given={Nathalie},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{57ba9d0ac654efd1aa33448c5737751c}
+      \strng{fullhash}{57ba9d0ac654efd1aa33448c5737751c}
+      \strng{bibnamehash}{57ba9d0ac654efd1aa33448c5737751c}
+      \strng{authorbibnamehash}{57ba9d0ac654efd1aa33448c5737751c}
+      \strng{authornamehash}{57ba9d0ac654efd1aa33448c5737751c}
+      \strng{authorfullhash}{57ba9d0ac654efd1aa33448c5737751c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)}
+      \field{title}{Adaptive threshold for outlier detection on data streams}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{41\bibrangedash 49}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
