@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.4)  15 APR 2023 20:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.4)  19 APR 2023 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1096,61 +1096,94 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<imgs/autoencoder.png, id=4, 848.16875pt x 414.54875pt>
-File: imgs/autoencoder.png Graphic file (type png)
-<use imgs/autoencoder.png>
-Package pdftex.def Info: imgs/autoencoder.png  used on input line 119.
-(pdftex.def)             Requested size: 211.71635pt x 103.47879pt.
- [1
+) [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<imgs/raw_data.png, id=21, 763.85374pt x 699.61375pt>
+<imgs/raw_data.png, id=19, 763.85374pt x 699.61375pt>
 File: imgs/raw_data.png Graphic file (type png)
 <use imgs/raw_data.png>
-Package pdftex.def Info: imgs/raw_data.png  used on input line 142.
-(pdftex.def)             Requested size: 141.14662pt x 129.27705pt.
-<imgs/asa_eq_3.png, id=22, 763.85374pt x 691.58376pt>
+Package pdftex.def Info: imgs/raw_data.png  used on input line 130.
+(pdftex.def)             Requested size: 117.62099pt x 107.72377pt.
+<imgs/asa_eq_3.png, id=21, 763.85374pt x 691.58376pt>
 File: imgs/asa_eq_3.png Graphic file (type png)
 <use imgs/asa_eq_3.png>
-Package pdftex.def Info: imgs/asa_eq_3.png  used on input line 143.
-(pdftex.def)             Requested size: 141.14662pt x 127.79324pt.
-
-Overfull \hbox (47.05125pt too wide) in paragraph at lines 142--144
- [][][] 
- []
-
-<imgs/clean_data.png, id=23, 786.94pt x 339.2675pt>
+Package pdftex.def Info: imgs/asa_eq_3.png  used on input line 131.
+(pdftex.def)             Requested size: 117.62099pt x 106.48734pt.
+<imgs/clean_data.png, id=22, 786.94pt x 339.2675pt>
 File: imgs/clean_data.png Graphic file (type png)
 <use imgs/clean_data.png>
-Package pdftex.def Info: imgs/clean_data.png  used on input line 166.
+Package pdftex.def Info: imgs/clean_data.png  used on input line 156.
 (pdftex.def)             Requested size: 117.62099pt x 50.70673pt.
-<imgs/bt_rr_clean.png, id=24, 677.53125pt x 335.2525pt>
+<imgs/bt_rr_clean.png, id=23, 677.53125pt x 335.2525pt>
 File: imgs/bt_rr_clean.png Graphic file (type png)
 <use imgs/bt_rr_clean.png>
-Package pdftex.def Info: imgs/bt_rr_clean.png  used on input line 167.
+Package pdftex.def Info: imgs/bt_rr_clean.png  used on input line 157.
 (pdftex.def)             Requested size: 117.62099pt x 58.19943pt.
-[2 <./imgs/autoencoder.png> <./imgs/raw_data.png> <./imgs/asa_eq_3.png>]
-<imgs/model.png, id=37, 666.49pt x 551.05875pt>
+<imgs/before.png, id=24, 1164.35pt x 311.1625pt>
+File: imgs/before.png Graphic file (type png)
+<use imgs/before.png>
+Package pdftex.def Info: imgs/before.png  used on input line 164.
+(pdftex.def)             Requested size: 211.71635pt x 56.57658pt.
+<imgs/after.png, id=25, 1164.35pt x 166.6225pt>
+File: imgs/after.png Graphic file (type png)
+<use imgs/after.png>
+Package pdftex.def Info: imgs/after.png  used on input line 169.
+(pdftex.def)             Requested size: 232.89085pt x 33.32645pt.
+ [2 <./imgs/raw_data.png> <./imgs/asa_eq_3.png> <./imgs/clean_data.png> <./imgs
+/bt_rr_clean.png> <./imgs/before.png>]
+<imgs/model.png, id=40, 666.49pt x 551.05875pt>
 File: imgs/model.png Graphic file (type png)
 <use imgs/model.png>
-Package pdftex.def Info: imgs/model.png  used on input line 184.
-(pdftex.def)             Requested size: 141.14662pt x 116.70113pt.
+Package pdftex.def Info: imgs/model.png  used on input line 189.
+(pdftex.def)             Requested size: 232.89085pt x 192.55392pt.
+ [3 <./imgs/after.png> <./imgs/model.png>]
+<imgs/loss.png, id=46, 654.445pt x 469.755pt>
+File: imgs/loss.png Graphic file (type png)
+<use imgs/loss.png>
+Package pdftex.def Info: imgs/loss.png  used on input line 258.
+(pdftex.def)             Requested size: 188.1943pt x 135.0786pt.
+<imgs/feature_train_err_1.png, id=47, 1437.4503pt x 1438.173pt>
+File: imgs/feature_train_err_1.png Graphic file (type png)
+<use imgs/feature_train_err_1.png>
+Package pdftex.def Info: imgs/feature_train_err_1.png  used on input line 308.
+(pdftex.def)             Requested size: 235.24199pt x 235.35716pt.
+ [4 <./imgs/loss.png>]
 
-[3 <./imgs/clean_data.png> <./imgs/bt_rr_clean.png> <./imgs/model.png>]
-[4] (./siia.aux)
+LaTeX Warning: Reference `table:test_results' on page 5 undefined on input line
+ 314.
+
+<imgs/feature_test_err.png, id=53, 1438.173pt x 714.7503pt>
+File: imgs/feature_test_err.png Graphic file (type png)
+<use imgs/feature_test_err.png>
+Package pdftex.def Info: imgs/feature_test_err.png  used on input line 338.
+(pdftex.def)             Requested size: 235.24199pt x 116.90352pt.
+<imgs/feature_asa3_err.png, id=54, 1179.40625pt x 585.18625pt>
+File: imgs/feature_asa3_err.png Graphic file (type png)
+<use imgs/feature_asa3_err.png>
+Package pdftex.def Info: imgs/feature_asa3_err.png  used on input line 346.
+(pdftex.def)             Requested size: 235.24199pt x 116.71371pt.
+<imgs/test_anomaly.png, id=55, 2276.505pt x 1868.9022pt>
+File: imgs/test_anomaly.png Graphic file (type png)
+<use imgs/test_anomaly.png>
+Package pdftex.def Info: imgs/test_anomaly.png  used on input line 357.
+(pdftex.def)             Requested size: 235.24199pt x 193.11789pt.
+[5 <./imgs/feature_train_err_1.png> <./imgs/feature_test_err.png> <./imgs/featu
+re_asa3_err.png> <./imgs/test_anomaly.png>] [6] (./siia.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'siia.run.xml'.
 \openout1 = `siia.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23751 strings out of 480608
- 451828 string characters out of 5903630
- 1181897 words of memory out of 5000000
- 39225 multiletter control sequences out of 15000+600000
+ 23803 strings out of 480608
+ 452948 string characters out of 5903630
+ 1183059 words of memory out of 5000000
+ 39271 multiletter control sequences out of 15000+600000
  555234 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,11n,56p,1541b,1311s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,12n,56p,1664b,1312s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -1169,10 +1202,10 @@ e/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/
 exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020/tex
 mf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2020/texmf
 -dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on siia.pdf (4 pages, 968645 bytes).
+Output written on siia.pdf (6 pages, 2549168 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 119 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
